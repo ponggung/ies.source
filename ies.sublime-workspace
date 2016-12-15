@@ -1,0 +1,981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"asse\tassertEqual"
+			],
+			[
+				"driver",
+				"driver\tstatement"
+			],
+			[
+				"main",
+				"main()\tsite"
+			],
+			[
+				"df",
+				"df\tstatement"
+			],
+			[
+				"sl",
+				"sleep()\ttime"
+			],
+			[
+				"pre",
+				"prettify\tfunction"
+			],
+			[
+				"to",
+				"toxml()\txml"
+			],
+			[
+				"table",
+				"table\tstatement"
+			],
+			[
+				"tra",
+				"translate\tfunction"
+			],
+			[
+				"ge",
+				"get_text\tfunction"
+			],
+			[
+				"find_",
+				"find_elements_by_class_name\tfunction"
+			],
+			[
+				"find_elem",
+				"find_element_by_id\tfunction"
+			],
+			[
+				"find",
+				"findall()\tre"
+			],
+			[
+				"text",
+				"gettext()\tgettext"
+			],
+			[
+				"r",
+				"restore()\tdifflib"
+			],
+			[
+				"find_e",
+				"find_elements_by_id\tfunction"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"test_",
+				"test_phantomjs\tfunction"
+			],
+			[
+				"o",
+				"open()\taifc"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"impo",
+				"import_module()\timportlib"
+			],
+			[
+				"c",
+				"count()\tarray"
+			],
+			[
+				"dir",
+				"dir()\tftplib"
+			],
+			[
+				"cal",
+				"cal\tfunction"
+			],
+			[
+				"re",
+				"results\tstatement"
+			],
+			[
+				"js",
+				"js\tfunction"
+			],
+			[
+				"true",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/SublimeREPL-python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/SublimeREPL-python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "git com",
+		"selected_items":
+		[
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"gist",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"ipyt",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ipython",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"con",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"ipyth",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"add c",
+				"Git: Add Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"branc",
+				"Git: Change Branch"
+			],
+			[
+				"uploa",
+				"SFTP: Upload File"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"breakpo",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"breakpoin",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"breakp",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"ippy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"brea",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"convert",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"utf8",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ipytho",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"update pa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				" iphy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"sublimeREPL",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"disable",
+				"User: Disable Python Flake8 Lint for this file"
+			],
+			[
+				"anaconda",
+				"Anaconda: Run Current Test"
+			],
+			[
+				"clear",
+				"Bookmarks: Clear All"
+			],
+			[
+				"break",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"autosa",
+				"Toggle AutoSave: current file only"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"python  u",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"header",
+				"FileHeader: Add Header"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"show",
+				"Git: Show Tags"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"toggle tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggle ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"tomenu",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git br",
+				"Git: Merge Branch"
+			],
+			[
+				"github",
+				"Github: Pull Requests"
+			],
+			[
+				"ever",
+				"Evernote Settings: User"
+			],
+			[
+				"gist ",
+				"Gist: Add File to Gist"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"run",
+				"Anaconda: Run Project Tests"
+			],
+			[
+				"Git",
+				"Git: Commit"
+			],
+			[
+				"mar",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"repl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"reip",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"autofo",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"",
+				"Anaconda: Find object usage"
+			],
+			[
+				"display",
+				"Anaconda: Display object docs"
+			]
+		],
+		"width": 722.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"ipython test.py",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/I/GitHub",
+		"/I/GitHub/ies.source"
+	],
+	"file_history":
+	[
+		"/I/GitHub/test/test_try_raise.py",
+		"/C/OLR_data/noaa18_1x1/ctl2_plot2.m",
+		"/I/GitHub/ies.source/.gitignore",
+		"/I/GitHub/ies.source/data_cwb_typhoon.py",
+		"/I/GitHub/ies.source/db2html_rain.py",
+		"/I/GitHub/ies.source/data_cwb_eq.py",
+		"/I/GitHub/ies.source/data_cwb_rain.py",
+		"/I/GitHub/ies/db2html_rain.py",
+		"/D/Cfg/Devices/Script.bas",
+		"/I/GitHub/ies.source/GrabTR/GrabTR.py",
+		"/I/GitHub/ies.source/.spyderworkspace",
+		"/I/GitHub/ies.source/pwd",
+		"/I/GitHub/ies.source/ies.sublime-workspace",
+		"/I/GitHub/ies.source/db2html_rain.sublime-workspace",
+		"/I/GitHub/ies.source/unit.py",
+		"/I/GitHub/ies.source/ghostdriver.log",
+		"/I/GitHub/ies.source/iframe_html",
+		"/I/GitHub/ies.source/cron.py",
+		"/I/GitHub/ies.source/README.md",
+		"/I/GitHub/ies.source/Rain.js",
+		"/I/GitHub/exploring-workflow/README.md",
+		"/c/users/wpk/appdata/local/temp/data_cwb_typhoon.py",
+		"/C/OLR_data/noaa18_1x1/ctl2_E_index_time2.m",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/I/GitHub/test/test.py",
+		"/C/OLR_data/noaa18_1x1/events/20161106Etime_with_typhoon/file_arrange.sh",
+		"/C/OLR_data/noaa18_1x1/events/20130411Etime_summary.txt",
+		"/E/boot/bootsect.exe",
+		"/I/GitHub/ies.source/test.py",
+		"/I/GitHub/ies.source/unittest.py",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda_lib/builder/python_builder.py",
+		"/I/GitHub/django/myvenv/Lib/site-packages/django/core/serializers/python.py",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/I/GitHub/ies.source/sftp-config.json",
+		"/C/Users/wpk/Anaconda3/lib/site-packages/selenium/webdriver/remote/webdriver.py",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/DocblockrPython.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/DocBlockr_Python/DocblockrPython.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/Flake8Lint.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Main.sublime-menu",
+		"/I/GitHub/ies.source/ies.sublime-project",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Python Breakpoints/PythonBreakpoints.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+		"/C/Users/wpk/Anaconda3/lib/site-packages/pandas/__init__.py",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python.sublime-build",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/.SublimeREPLHistory/python.db",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python,sublime-bulid.sublime-build",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/wpk/Desktop/2.swf",
+		"/C/Users/wpk/Desktop/1.swf",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/I/GitHub/ies.source/data_cwb_typhoon",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/README.md",
+		"/C/OLR_data/noaa18_1x1/ctl2.m",
+		"/C/OLR_data/noaa18_1x1/ctl.m",
+		"/I/GitHub/ies.source/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/C/Users/wpk/.ssh/id_rsa.pub",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/python-markdown/README.md",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/Default.sublime-commands",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/wpk/AppData/Roaming/Sublime Text 3/Packages/User/PythonTestRunner.last-run",
+		"/C/OLR_data/noaa18_1x1/events/file.sh",
+		"/C/Users/wpk/Desktop/CR_avg/YMSG1.dat",
+		"/C/Users/wpk/Desktop/CR_avg/YMSG.dat",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/IES.source/Rain.js",
+		"/C/Users/wpk/Google 雲端硬碟/python/GrabTR/TR.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/R.source/HTML/GGCLab.php",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/IES.source/iframe_html",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkgk.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkhc.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkhc-old.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkhh.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkjs.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkjs_old.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkraincwball.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/ftpmirror.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/scrape.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/R.source/R_output/source/data_atm.r",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/R.source/R_output/source/data_seismic.r",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/R.source/R_output/source/upload_cwb_seismic.r",
+		"/C/OLR_data/noaa18_1x1/typhoon.html",
+		"/C/Users/wpk/Desktop/CR_avg/YMSG.js",
+		"/C/Users/wpk/Desktop/OLR_paper/16days with Eddy/file.sh",
+		"/C/Users/wpk/Desktop/OLR_paper/file.sh",
+		"/C/Users/wpk/Desktop/OLR_paper/16days_without_Eddy/file.sh",
+		"/C/Users/wpk/Desktop/0810自動抓寵外掛/外掛1/Config/auth.json",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/IES.source/CCUG_rain.js",
+		"/C/Users/wpk/Desktop/putty.exe",
+		"/C/Users/wpk/Google 雲端硬碟/python/package/html_table_parser-0.1.0/setup.py",
+		"/C/OLR_data/noaa18_1x1/event",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/IES.source/pwd",
+		"/C/Users/wpk/Google 雲端硬碟/python/GrabTR/TR.js",
+		"/C/Users/wpk/Google 雲端硬碟/python/olr_predata/olr_predata.py",
+		"/C/OLR_data/noaa18_1x1/rawdata/predata.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkcs.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walk.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/ncree-ntu.sh",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/update_statistic.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkseismic.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walkpt.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walksyk.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/python.source/pysrv/walktpt.py",
+		"/C/Users/wpk/Desktop/grab_cwb/cwb_rain_csv.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/IES.source/walkraincwball.py",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/R.source/HTML/d3/eq.js",
+		"/C/Users/wpk/Google 雲端硬碟/Geological Observation Network/R.source/HTML/ggmap.php",
+		"/I/GitHub/WPKhello/course.yml",
+		"/I/GitHub/WPKhello/test",
+		"/I/GitHub/WPKhello/README.md",
+		"/C/Users/wpk/Google 雲端硬碟/python/GrabTR/GrabTR2.py"
+	],
+	"find":
+	{
+		"height": 102.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cp",
+			"config",
+			"get_config",
+			"InteractiveShell",
+			"mnemonic",
+			"extend_env",
+			"encode",
+			"has_readline",
+			"ZMQT",
+			"ZMQTerminalInteractiveShell",
+			"Jupyter",
+			"Jupyter Console",
+			"iphython",
+			"interpreter",
+			"wpk",
+			"comple",
+			"auto",
+			"complet",
+			"complete",
+			"auto",
+			"def",
+			"fp",
+			"b",
+			"()\n",
+			"hack",
+			"ctrl+1",
+			"ctrl+/",
+			"ctrl",
+			"toggle",
+			"python",
+			"repl_python",
+			"repl_open",
+			"args",
+			"encoding",
+			"linting",
+			"python",
+			"Anaconda3",
+			"extend",
+			"python_interpreter",
+			"display_signatures",
+			"complete",
+			"completer",
+			"int",
+			"KTPG",
+			"DHUG",
+			"CCUG",
+			"YMSG",
+			"DHUG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5296875,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 190.0
+	},
+	"output.git":
+	{
+		"height": 196.0
+	},
+	"output.sftp":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "ies.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"ies.source\\data_cwb_rain.py"
+			],
+			[
+				".i",
+				"ies.source\\.gitignore"
+			],
+			[
+				"grab",
+				"ies.source\\GrabTR\\GrabTR.py"
+			],
+			[
+				"readme",
+				"ies.source\\README.md"
+			],
+			[
+				"re",
+				"exploring-workflow\\README.md"
+			],
+			[
+				"gist",
+				"C:\\Users\\wpk\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Gist.sublime-settings"
+			],
+			[
+				"typ",
+				"ies.source\\data_cwb_typhoon.py"
+			],
+			[
+				"",
+				"ies.source\\data_cwb_rain.py"
+			],
+			[
+				"ipython",
+				"django\\myvenv\\Lib\\site-packages\\django\\core\\serializers\\python.py"
+			],
+			[
+				"cro",
+				"ies.source\\cron.py"
+			],
+			[
+				"ipy",
+				"C:\\Users\\wpk\\AppData\\Roaming\\Sublime Text 3\\Packages\\SublimeREPL\\config\\Python\\ipy_repl.py"
+			],
+			[
+				"sublimebuild",
+				"untitled.sublime-build"
+			],
+			[
+				"commit",
+				"ies.source\\COMMIT_EDITMSG.COMMIT_EDITMSG"
+			],
+			[
+				"db",
+				"ies.source\\db2html_rain.py"
+			],
+			[
+				"anaconda",
+				"C:\\Users\\wpk\\AppData\\Roaming\\Sublime Text 3\\Packages\\Anaconda\\Anaconda.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
