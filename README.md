@@ -2,7 +2,7 @@
 
 ## project:  
 Geophysics Observation Network 
-http://ies-obs.weebly.com/
+http://ies-obs.weebly.com/ . 
 alpha/alpha
 
 Mysql website:
