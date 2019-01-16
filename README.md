@@ -3,13 +3,14 @@
 ## project:  
 Geophysics Observation Network 
 http://ies-obs.weebly.com/
+alpha/alpha
 
 Mysql website:
 http://140.109.80.146/phpMyAdmin/
 
 --------------------------------------------
 
-			Work system:
+Work system:
 
 Python Language
 Linux CentOS 6.5
